@@ -13,10 +13,12 @@ It converts any URL to a shorter version using the APIs from these sevices:
 
 # How to
 
-1. Enter a URL you wish to shorten in the input box with label "Long URL:"
+1. Enter a URL you wish to shorten in the input box with label **"Long URL:"**
 
     * _Example_: https://www.youtube.com/watch?v=Y2VF8tmLFHw
 
-2. Select an option from the "Service/Host:" dropdown for the service you want to use to shorten the URL.
+2. Select an option from the **"Service/Host:"** dropdown for the service you want to use to shorten the URL.
 
-3. Click on "Submit".
+3. Click on **"Submit"**.
+
+![URLShortener](https://i.snag.gy/vFrKnZ.jpg)
